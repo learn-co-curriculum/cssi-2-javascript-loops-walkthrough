@@ -1,8 +1,4 @@
----
-tags: cssi, javascript
-level: 1
-languages: javascript
----
+
 # Loops
 ####After the lesson, you'll be able to:
 + Understand how loops run an operation multiple times
