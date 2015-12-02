@@ -85,3 +85,5 @@ This function should
 + for each favorite, it should alert to the screen something like “The Shawshank Redemption? That is my favorite too!”
 
 Now create a new array of your favorite songs. Try calling the myFavorites() function with your favorite songs array.
+
+<a href='https://learn.co/lessons/cssi-2-javascript-loops-walkthrough' data-visibility='hidden'>View this lesson on Learn.co</a>
