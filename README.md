@@ -86,4 +86,4 @@ This function should
 
 Now create a new array of your favorite songs. Try calling the myFavorites() function with your favorite songs array.
 
-<a href='https://learn.co/lessons/cssi-2-javascript-loops-walkthrough' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-2-javascript-loops-walkthrough' title='Loops'>Loops</a> on Learn.co and start learning to code for free.</p>
